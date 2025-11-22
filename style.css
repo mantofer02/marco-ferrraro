@@ -88,7 +88,7 @@ a:hover {
 }
 
 .navbar .nav-link::after {
-  content: '';
+  content: "";
   position: absolute;
   bottom: 0;
   left: 50%;
@@ -470,28 +470,30 @@ a:hover {
   .hero-image {
     min-height: 85vh;
   }
-  
+
   #portfolio [class*="col-"] {
     margin-bottom: 25px;
   }
-  
+
   .about {
     padding: 3.5rem 0;
   }
-  
+
   #portfolio {
     padding: 3.5rem 0;
   }
-  
+
   .contact {
     padding: 3.5rem 0;
   }
-  
+
   h1 {
     font-size: 2.25rem;
   }
-  
-  .about-title, #portfolio h1, .contact h1 {
+
+  .about-title,
+  #portfolio h1,
+  .contact h1 {
     font-size: 2.25rem;
   }
 }
@@ -501,7 +503,7 @@ a:hover {
     max-width: 100%;
     flex: 0 0 100%;
   }
-  
+
   .card .card-img-top {
     height: 250px;
   }
@@ -527,7 +529,8 @@ a:hover {
     flex-direction: column;
     gap: 0.75rem;
   }
-  .btn-hero, .btn-hero-outline {
+  .btn-hero,
+  .btn-hero-outline {
     width: 100%;
     max-width: 280px;
     padding: 0.75rem 1.5rem;
@@ -536,28 +539,32 @@ a:hover {
   .contact-card {
     max-width: 100%;
   }
-  
+
   h1 {
     font-size: 1.85rem;
   }
-  
-  .about-title, #portfolio h1, .contact h1 {
+
+  .about-title,
+  #portfolio h1,
+  .contact h1 {
     font-size: 1.85rem;
   }
-  
+
   .card-title {
     font-size: 1.2rem;
   }
-  
+
   #portfolio [class*="col-"] {
     padding: 0 10px;
     margin-bottom: 20px;
   }
-  
-  .about, #portfolio, .contact {
+
+  .about,
+  #portfolio,
+  .contact {
     padding: 3rem 0;
   }
-  
+
   .about .col-lg-8 {
     padding: 1rem;
   }
